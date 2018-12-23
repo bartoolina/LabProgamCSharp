@@ -1,0 +1,2 @@
+## Zadanie 6
+Napisz program, który sprawdza czy z podanych przez użytkownika 3 długości odcinków da się zbudować trójkąt.Taki warunek jest spełniony, jeśli suma każdych dwóch odcinków jest większa od trzeciego odcinka.

@@ -1,2 +1,2 @@
 ## Zadanie 4
-Napisz program, który wczytuje długość promienia podstawy stożka oraz jego wysokość i wyświetla na konsoli jego objętość i pole całkowite oraz długość tworzącej.Wyniki wyświetl z dokładnością do 4 miejsc po przecinku.
+Napisz program, który wczytuje długość promienia podstawy stożka oraz jego wysokość i wyświetla na konsoli jego objętość i pole całkowite oraz długość tworzącej. Wyniki wyświetl z dokładnością do 4 miejsc po przecinku.
