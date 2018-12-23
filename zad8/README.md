@@ -6,4 +6,4 @@ Napisz program z użyciem instrukcji switch, który poprosi o dowolną ocenę w 
 * jeżeli będzie równa 4 odpisze, że to świetna ocena,
 * jeżeli będzie równa 5 odpisze, że to wysoka ocena,
 * jeżeli będzie równa 6 odpisze, że to rewelacyjna ocena,
-* dla każdej innej wyświetli napis: "Miała być ocena, a nie dowolna liczba!"
+Dla każdej innej wyświetli napis: "Miała być ocena, a nie dowolna liczba!"
