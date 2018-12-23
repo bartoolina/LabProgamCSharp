@@ -45,6 +45,7 @@ namespace zad8
                 Console.WriteLine("\nChcesz spróbować jeszcze raz? [Y - yes]");
                 key = Console.ReadKey().KeyChar;
             } while (key == 'Y' || key == 'y');
+            // dodalem komentarz
         
         }
     }
