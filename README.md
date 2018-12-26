@@ -5,17 +5,14 @@
 5. Napisz program, który informuje czy wczytana liczba rzeczywista jest dodatnia, ujemna czy równa 0.
 6. Napisz program, który sprawdza czy z podanych przez użytkownika 3 długości odcinków da się zbudować trójkąt.Taki warunek jest spełniony, jeśli suma każdych dwóch odcinków jest większa od trzeciego odcinka.
 7. Napisz program, który wczytuje 6 liczb i wyświetla na ekranie najmniejszą.
-8. Napisz program z użyciem instrukcji switch, który poprosi o dowolną ocenę w skali od 1 do 6:
-
+8. Napisz program z użyciem instrukcji switch, który poprosi o dowolną ocenę w skali od 1 do 6:  
 * jeżeli będzie równa 1 odpisze, że to zła ocena,
 * jeżeli będzie równa 2 odpisze, że to słaba ocena,
 * jeżeli będzie równa 3 odpisze, że to przeciętna ocena,
 * jeżeli będzie równa 4 odpisze, że to świetna ocena,
 * jeżeli będzie równa 5 odpisze, że to wysoka ocena,
-* jeżeli będzie równa 6 odpisze, że to rewelacyjna ocena, 
-
-Dla każdej innej wyświetli napis: "Miała być ocena, a nie dowolna liczba!"
-
+* jeżeli będzie równa 6 odpisze, że to rewelacyjna ocena,  
+Dla każdej innej wyświetli napis: "Miała być ocena, a nie dowolna liczba!"  
 9. Napisz program, który wypisze na ekranie wszystkie liczby podzielne przez 14 z przedziału od 0 do 200.
 10. Napisz program, który oblicza sumę n kolejnych liczb naturalnych (1+2+….+n) dla podanego przez użytkownika n (n>2, n - naturalne). Użyj do tego celu pętli for.
 11. Napisz program, który wczyta rok początkowy i rok końcowy, a następnie dla tego przedziału lat, wypisze wszystkie lata przestępne. Przyjmujemy, że dla podanych lat, przedział jest obustronnie domknięty. Rok przestępny spełnia następujące warunki: albo jest podzielny przez 4 i jednocześnie niepodzielny przez 100 albo jest podzielny przez 400.
