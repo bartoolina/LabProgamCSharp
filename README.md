@@ -6,6 +6,7 @@
 6. Napisz program, który sprawdza czy z podanych przez użytkownika 3 długości odcinków da się zbudować trójkąt.Taki warunek jest spełniony, jeśli suma każdych dwóch odcinków jest większa od trzeciego odcinka.
 7. Napisz program, który wczytuje 6 liczb i wyświetla na ekranie najmniejszą.
 8. Napisz program z użyciem instrukcji switch, który poprosi o dowolną ocenę w skali od 1 do 6:
++
 * jeżeli będzie równa 1 odpisze, że to zła ocena,
 * jeżeli będzie równa 2 odpisze, że to słaba ocena,
 * jeżeli będzie równa 3 odpisze, że to przeciętna ocena,
