@@ -1,0 +1,2 @@
+## Zadanie 11
+Napisz program, który wczyta rok początkowy i rok końcowy, a następnie dla tego przedziału lat, wypisze wszystkie lata przestępne. Przyjmujemy, że dla podanych lat, przedział jest obustronnie domknięty. Rok przestępny spełnia następujące warunki: albo jest podzielny przez 4 i jednocześnie niepodzielny przez 100 albo jest podzielny przez 400.

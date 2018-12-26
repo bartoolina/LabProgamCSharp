@@ -1,0 +1,2 @@
+## Zadanie 17
+Napisać program, który będzie umożliwiał użytkownikowi obliczenia pól figur płaskich. Jeżeli użytkownik wybierze 1, to powinien mieć możliwość obliczenia pola prostokąta, dla 2 – pola kwadratu, dla 3 – pola trójkąta, dla 4 – pola koła. Program powinien pytać użytkownika, które pole chce obliczyć aż do momentu, kiedy użytkownik wpisze 0 (zero).
