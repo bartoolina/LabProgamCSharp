@@ -15,7 +15,7 @@
 * jeżeli będzie równa 6 odpisze, że to rewelacyjna ocena, 
  
 Dla każdej innej wyświetli napis: "Miała być ocena, a nie dowolna liczba!"
---
+
 9. Napisz program, który wypisze na ekranie wszystkie liczby podzielne przez 14 z przedziału od 0 do 200.
 10. Napisz program, który oblicza sumę n kolejnych liczb naturalnych (1+2+….+n) dla podanego przez użytkownika n (n>2, n - naturalne). Użyj do tego celu pętli for.
 11. Napisz program, który wczyta rok początkowy i rok końcowy, a następnie dla tego przedziału lat, wypisze wszystkie lata przestępne. Przyjmujemy, że dla podanych lat, przedział jest obustronnie domknięty. Rok przestępny spełnia następujące warunki: albo jest podzielny przez 4 i jednocześnie niepodzielny przez 100 albo jest podzielny przez 400.
