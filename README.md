@@ -1,7 +1,7 @@
-1. Napisz program, który pyta o imię i wiek użytkownika i wyświetla komunikat: „Użytkownik o imieniu ….. ma …..lat.”
-2. Napisz program, który wczytuje liczbę naturalną n i podaje sumę ciągu n kolejnych liczb naturalnych.Skorzystaj z gotowego wzoru na taką sumę.
-3. Napisz program, który wczytuje wartość promienia koła i wyświetla jego obwód i pole. Wyniki podaj z dokładnością do 2 miejsc po przecinku.
-4. Napisz program, który wczytuje długość promienia podstawy stożka oraz jego wysokość i wyświetla na konsoli jego objętość i pole całkowite oraz długość tworzącej. Wyniki wyświetl z dokładnością do 4 miejsc po przecinku.
+1.  Napisz program, który pyta o imię i wiek użytkownika i wyświetla komunikat: „Użytkownik o imieniu ….. ma …..lat.”
+2.  Napisz program, który wczytuje liczbę naturalną n i podaje sumę ciągu n kolejnych liczb naturalnych.Skorzystaj z gotowego wzoru na taką sumę.
+3.  Napisz program, który wczytuje wartość promienia koła i wyświetla jego obwód i pole. Wyniki podaj z dokładnością do 2 miejsc po przecinku.
+4.  Napisz program, który wczytuje długość promienia podstawy stożka oraz jego wysokość i wyświetla na konsoli jego objętość i pole całkowite oraz długość tworzącej. Wyniki wyświetl z dokładnością do 4 miejsc po przecinku.
 5. Napisz program, który informuje czy wczytana liczba rzeczywista jest dodatnia, ujemna czy równa 0.
 6. Napisz program, który sprawdza czy z podanych przez użytkownika 3 długości odcinków da się zbudować trójkąt.Taki warunek jest spełniony, jeśli suma każdych dwóch odcinków jest większa od trzeciego odcinka.
 7. Napisz program, który wczytuje 6 liczb i wyświetla na ekranie najmniejszą.
@@ -13,7 +13,7 @@
 * jeżeli będzie równa 4 odpisze, że to świetna ocena,
 * jeżeli będzie równa 5 odpisze, że to wysoka ocena,
 * jeżeli będzie równa 6 odpisze, że to rewelacyjna ocena, 
-+
+
 Dla każdej innej wyświetli napis: "Miała być ocena, a nie dowolna liczba!"
 
 9. Napisz program, który wypisze na ekranie wszystkie liczby podzielne przez 14 z przedziału od 0 do 200.
