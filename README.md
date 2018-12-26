@@ -13,6 +13,7 @@
 * jeżeli będzie równa 4 odpisze, że to świetna ocena,
 * jeżeli będzie równa 5 odpisze, że to wysoka ocena,
 * jeżeli będzie równa 6 odpisze, że to rewelacyjna ocena, 
++
 Dla każdej innej wyświetli napis: "Miała być ocena, a nie dowolna liczba!"
 
 9. Napisz program, który wypisze na ekranie wszystkie liczby podzielne przez 14 z przedziału od 0 do 200.
