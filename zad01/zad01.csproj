@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{863AB7BA-9EFE-440E-8330-6603F87ABE81}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>zad1</RootNamespace>
-    <AssemblyName>zad1</AssemblyName>
+    <RootNamespace>zad01</RootNamespace>
+    <AssemblyName>zad01</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
