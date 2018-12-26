@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad1", "zad1\zad1.csproj", "{863AB7BA-9EFE-440E-8330-6603F87ABE81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad01", "zad01\zad01.csproj", "{863AB7BA-9EFE-440E-8330-6603F87ABE81}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad2", "zad2\zad2.csproj", "{B68E1AD6-F256-48F8-A092-629567A534CC}"
 EndProject
