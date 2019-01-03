@@ -29,6 +29,7 @@ namespace zad9
                 key = Console.ReadKey().KeyChar;
             } while (key == 'Y' || key == 'y');
             // dodalem komentarz na dole
+            //drugi
         }
     }
 }
