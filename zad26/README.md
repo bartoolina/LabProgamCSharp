@@ -1,0 +1,2 @@
+## Zadanie 26
+Napisz funkcję rysującą na ekranie kwadrat o podanej długości boku, którego kontur jest wyrysowany znakiem nr 1, a wypełniony jest zadanym znak nr 2. Przetestuj działanie utworzonej procedury.
