@@ -1,0 +1,2 @@
+## Zadanie 28
+Dla ciągu danego wzorem rekurencyjnym: a(1) = 1, a(n+1) = a(n)^2 - 3. Napisz funkcję, liczącą n-ty wyraz ciągu oraz napisz program obliczający jego wartość dla n podanego przez użytkownika.
