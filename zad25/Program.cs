@@ -13,17 +13,6 @@ namespace zad25
         static uint NajwiekszyWspolnyDzielnik (uint a, uint b)
         {
             uint temp;
-            //do
-            //{
-            //    if (a % b == 0) break;
-            //    else
-            //    {
-            //        temp = a % b;
-            //        a = b;
-            //        b = temp;
-            //    }
-            //} while (true);
-            //return b;
 
             while (a%b!=0)
             {

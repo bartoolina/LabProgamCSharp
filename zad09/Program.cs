@@ -28,8 +28,7 @@ namespace zad9
                 Console.WriteLine("\n\nChcesz spróbować jeszcze raz? [Y - yes]");
                 key = Console.ReadKey().KeyChar;
             } while (key == 'Y' || key == 'y');
-            // dodalem komentarz na dole
-            //drugi
+
         }
     }
 }
